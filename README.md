@@ -1,4 +1,4 @@
-# FPS
+# FPS (Raw Prototype)
 Small preparation for a first-person shooter.
 A very raw version of the FPS-project 
 that I made from the tutorial step by step 
